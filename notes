@@ -1,0 +1,10 @@
+git --version
+git version 2.37.2.windows.2
+
+ogahc@DESKTOP-T446DA4 MINGW64 ~/OneDrive/Desktop/CodingProjects/Ecommerce
+$ node --version
+v16.17.0
+
+ogahc@DESKTOP-T446DA4 MINGW64 ~/OneDrive/Desktop/CodingProjects/Ecommerce
+$ npm --version
+8.15.0
