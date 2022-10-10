@@ -17,7 +17,7 @@ function Homepage() {
             <Link to={`/product/${product.slug}`}>
             <p>{product.name}</p>
             </Link>
-            <p><strong>${product.price}</strong></p>
+            <p><strong>N{product.price}</strong></p>
             <button>Add to Cart</button>
             </div>
           </div>
